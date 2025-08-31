@@ -1,6 +1,5 @@
 # Movies-Hub
 
-Movies Hub
 Movies Hub is a web application that provides a centralized platform for users to explore a wide range of movies. Built using HTML, CSS, JavaScript, and utilizing the fetch API, this project aims to deliver an intuitive and seamless movie browsing experience.
 
 Features:
